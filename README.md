@@ -7,6 +7,6 @@
 
 
 ## Application URL
-nyuf16-ice-creams.mybluemix.net
+https://nyuf16-ice-creams.mybluemix.net/
 
 
