@@ -3,9 +3,9 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: devops-icecream
-  host: devops-icecream
+  name: nyuf16-ice-creams
+  host: nyuf16-ice-creams
   disk_quota: 1024M
   services:
-    - Redis Cloud-wz
+    - RedisCloud
   buildpack: python_buildpack
